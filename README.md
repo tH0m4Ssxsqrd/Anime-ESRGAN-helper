@@ -13,5 +13,4 @@ This script was designed to work with a minimal folder and file configuration li
 - ├── /output
 - └── realesrgan-ncnn-vulkan
 
-The only folders and files you need to provide are the 'model' folder and the 'realesrgan-ncnn-vulkan' file. The script ask if you want to create the remaining ones if they don't exist
-
+The only folders and files you need to provide are the 'model' folder and the 'realesrgan-ncnn-vulkan' file. The script ask if you want to create the remaining ones if they don't exist.
